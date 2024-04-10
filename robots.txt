@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohdywasudy.github.io/sitemap.xml
